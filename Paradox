@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+#paradox-archive{
+    width:650px;
+    margin:30px auto;
+    background:#18181d;
+    border:1px solid #353545;
+    color:#e8e8e8;
+    font-family:'Inter',sans-serif;
+    overflow:hidden;
+}
+
+#paradox-archive .px-banner{
+    width:100%;
+    height:220px;
+    background-size:cover;
+    background-position:center;
+}
+
+#paradox-archive .px-content{
+    padding:35px;
+}
+
+#paradox-archive .px-title{
+    text-align:center;
+    font-size:34px;
+    font-weight:700;
+    letter-spacing:8px;
+    color:#9d7dff;
+    text-transform:uppercase;
+}
+
+#paradox-archive .px-subtitle{
+    text-align:center;
+    margin-top:8px;
+    font-size:12px;
+    letter-spacing:3px;
+    color:#999;
+    text-transform:uppercase;
+}
+
+#paradox-archive .px-divider{
+    width:70px;
+    height:2px;
+    background:#6b4cff;
+    margin:25px auto;
+}
+
+#paradox-archive .px-text{
+    font-size:14px;
+    line-height:1.9;
+    text-align:justify;
+}
+
+#paradox-archive .px-text b{
+    color:#b39cff;
+}
+
+#paradox-archive .px-footer{
+    margin-top:35px;
+    padding-top:20px;
+    border-top:1px solid #333;
+    display:flex;
+    justify-content:space-between;
+    font-size:11px;
+    color:#999;
+    text-transform:uppercase;
+}
+
+#paradox-archive .px-footer div{
+    width:33%;
+    text-align:center;
+}
+
+#paradox-archive .px-footer b{
+    display:block;
+    color:#b39cff;
+    margin-bottom:6px;
+}
